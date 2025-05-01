@@ -48,8 +48,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/hakeemsyd/Yelp/blob/master/demo/assign_2.2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 I had to implement filters 3 times because I was unsure of how to best communicate data around multiple view controls. One of those implementations use userdefaults also. The alternate approach is in git branch
